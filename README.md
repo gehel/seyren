@@ -76,3 +76,7 @@ mvn clean verify -Dwait
 ```
 
 You should then be able to browse to `http://localhost:8080/seyren` and have a play.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gehel/seyren/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
